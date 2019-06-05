@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Web\\UdemyProject.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Data\\UdemyProject.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Data\\UdemyProject.Data.csproj",
+        "projectName": "UdemyProject.Data",
+        "projectPath": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Data\\UdemyProject.Data.csproj",
+        "packagesPath": "C:\\Users\\Ing.Joel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ing.Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Entities\\UdemyProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Entities\\UdemyProject.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Entities\\UdemyProject.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Entities\\UdemyProject.Entities.csproj",
+        "projectName": "UdemyProject.Entities",
+        "projectPath": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Entities\\UdemyProject.Entities.csproj",
+        "packagesPath": "C:\\Users\\Ing.Joel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ing.Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Web\\UdemyProject.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Web\\UdemyProject.Web.csproj",
+        "projectName": "UdemyProject.Web",
+        "projectPath": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Web\\UdemyProject.Web.csproj",
+        "packagesPath": "C:\\Users\\Ing.Joel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ing.Joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Data\\UdemyProject.Data.csproj": {
+                "projectPath": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Data\\UdemyProject.Data.csproj"
+              },
+              "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Entities\\UdemyProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\Ing.Joel\\Downloads\\Eduardo\\Udemy\\AspNetCore\\UdemyProject\\UdemyProject.Entities\\UdemyProject.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Ing.Joel\Downloads\Eduardo\Udemy\AspNetCore\UdemyProject\UdemyProject.Entities\bin\Debug\netcoreapp2.1\UdemyProject.Entities.deps.json
+C:\Users\Ing.Joel\Downloads\Eduardo\Udemy\AspNetCore\UdemyProject\UdemyProject.Entities\bin\Debug\netcoreapp2.1\UdemyProject.Entities.dll
+C:\Users\Ing.Joel\Downloads\Eduardo\Udemy\AspNetCore\UdemyProject\UdemyProject.Entities\bin\Debug\netcoreapp2.1\UdemyProject.Entities.pdb
+C:\Users\Ing.Joel\Downloads\Eduardo\Udemy\AspNetCore\UdemyProject\UdemyProject.Entities\obj\Debug\netcoreapp2.1\UdemyProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ing.Joel\Downloads\Eduardo\Udemy\AspNetCore\UdemyProject\UdemyProject.Entities\obj\Debug\netcoreapp2.1\UdemyProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Ing.Joel\Downloads\Eduardo\Udemy\AspNetCore\UdemyProject\UdemyProject.Entities\obj\Debug\netcoreapp2.1\UdemyProject.Entities.AssemblyInfo.cs
+C:\Users\Ing.Joel\Downloads\Eduardo\Udemy\AspNetCore\UdemyProject\UdemyProject.Entities\obj\Debug\netcoreapp2.1\UdemyProject.Entities.dll
+C:\Users\Ing.Joel\Downloads\Eduardo\Udemy\AspNetCore\UdemyProject\UdemyProject.Entities\obj\Debug\netcoreapp2.1\UdemyProject.Entities.pdb
+C:\Users\Ing.Joel\Downloads\Eduardo\Udemy\AspNetCore\UdemyProject\UdemyProject.Entities\obj\Debug\netcoreapp2.1\UdemyProject.Entities.csprojAssemblyReference.cache
